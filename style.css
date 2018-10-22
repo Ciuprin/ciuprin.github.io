@@ -168,5 +168,7 @@ h2 {
       color: rgb(255, 105, 263);
 	  text-align:center;
 	  font-size: 25px ;
+	  border: 1px solid gray; 
+	  border-radius: 50px ;
 }
 
